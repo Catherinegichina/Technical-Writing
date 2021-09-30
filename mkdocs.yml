@@ -1,0 +1,10 @@
+
+site_name: Gichina
+site_url: https://example.com/
+nav:
+    - Home: index.md
+markdown_extensions:
+  - attr_list
+theme:
+    nav_style: pink
+    name: material
